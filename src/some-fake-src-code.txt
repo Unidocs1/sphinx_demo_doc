@@ -1,0 +1,3 @@
+Sample source - nothing here will be imported in since we'll surgically git `sparse clone` docs/. 
+
+This example dir is to demonstrate this part *is not* cloned.

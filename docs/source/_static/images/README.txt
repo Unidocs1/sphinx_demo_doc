@@ -1,0 +1,1 @@
+Any images placed in {repo_name}/ will be copied to the sphinx_repo_manager _static/images/{repo_name}/
