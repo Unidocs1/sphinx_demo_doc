@@ -6,4 +6,4 @@ Sample Content
 
 .. start-marker
 
-This is a sample line of content from the ``template_doc``. 
+This is a sample line of content from the ``demo_doc``.
