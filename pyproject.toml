@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sphinx_demo_doc"
-version = "1.0.1"
+version = "1.0.2"
 description = "This Sphinx doc minimally demonstrates the requirements to work a Sphinx build, notably for use with sphinx_repo_manager"
 authors = ["Xsolla Backend <xbe@xsolla.com>", "Dylan Hunt <d.hunt@xsolla.com>"]
 readme = "README.md"
