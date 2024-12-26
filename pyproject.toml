@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sphinx_repo_manager"
-version = "1.0.0"
+version = "1.0.1"
 description = "This Sphinx doc minimally demonstrates the requirements to work a Sphinx build, notably for use with sphinx_repo_manager"
 authors = ["Xsolla Backend <xbe@xsolla.com>", "Dylan Hunt <d.hunt@xsolla.com>"]
 readme = "README.md"
@@ -27,5 +27,5 @@ Homepage = "https://source.goxbe.io/Core/docs/sphinx_demo_doc"
 Issues = "https://source.goxbe.io/Core/docs/sphinx_demo_doc/-/issues"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core>=1.0.1"]
 build-backend = "poetry.core.masonry.api"
