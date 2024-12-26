@@ -1,6 +1,7 @@
 # demo_doc
 
-
+<!-- Badges go here on the same line; PyPi doesn't support `\` or single-multi-line (it'll stack vertically) -->
+[![PyPI](https://img.shields.io/pypi/v/sphinx-demo-doc)](https://pypi.org/project/sphinx-demo-doc/) [![PyPI - License](https://img.shields.io/pypi/l/sphinx-demo-doc)](https://opensource.org/licenses/MIT)
 
 ## About
 
