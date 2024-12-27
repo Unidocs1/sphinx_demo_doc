@@ -1,1 +1,0 @@
-D:/repos/xsolla/tools/repo_manager/repos/core/docs/sphinx_repo_manager/docs/source/_repos-available/demo_doc/RELEASE_NOTES.rst

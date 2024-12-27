@@ -160,3 +160,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Release note symlinks 
+docs/**/RELEASE_NOTES.*
+
