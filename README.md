@@ -2,7 +2,7 @@
 
 ## About
 
-This is a demo doc repo for [sphinx_repo_manager](https://source.goxbe.io/Core/docs/sphinx_repo_manager) to be used for the demo manifest within its `docs/repo_manifest.yml`.
+This is a demo doc repo for [sphinx_repo_manager](https://github.com/Unidocs1/sphinx_repo_manager) to be used for the demo manifest within its `docs/repo_manifest.yml`.
 
 ## Getting Started
 
